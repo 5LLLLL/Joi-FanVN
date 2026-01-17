@@ -11,10 +11,14 @@
             "id": "34be16a8473c31cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "乱七八糟的文本/写的垃圾/最后一幕（优化）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "最后一幕（优化）"
             }
           }
         ]
