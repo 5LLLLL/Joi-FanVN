@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乱七八糟的文本/闲思碎想/关于主视角Joi.md",
+                "file": "乱七八糟的文本/正文（或许）/”日常“.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于主视角Joi"
+              "title": "”日常“"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "乱七八糟的文本/正文（或许）/宇宙女皇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "宇宙女皇 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "乱七八糟的文本/正文（或许）/宇宙女皇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "宇宙女皇 的出链列表"
             }
           },
           {
@@ -154,20 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "乱七八糟的文本/正文（或许）/”日常“.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "”日常“ 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,25 +185,32 @@
   },
   "active": "34be16a8473c31cd",
   "lastOpenFiles": [
+    "乱七八糟的文本/正文（或许）/宇宙女皇.md",
+    "乱七八糟的文本/正文（或许）/”日常“.md",
     "乱七八糟的文本/闲思碎想/关于宇宙女皇.md",
-    "乱七八糟的文本/各个角色.md",
     "乱七八糟的文本/闲思碎想/关于主视角Joi.md",
-    "乱七八糟的文本/闲思碎想/关于主视角“Joi”.md",
+    "乱七八糟的文本/大概没用的稿/最后一幕（初）.md",
+    "乱七八糟的文本/各个角色.md",
     "乱七八糟的文本/开幕简介.md",
+    "乱七八糟的文本/大纲（或许）.md",
+    "乱七八糟的文本/设定来源记录.md",
+    "或许会用到的素材/视频音频/早期OP.mp3",
+    "或许会用到的素材/视频音频/shichigatsunokomorebi.mp3",
+    "或许会用到的素材/视频音频/kkyxdt的bgm - 海の見える街.flac",
+    "或许会用到的素材/视频音频/星空下初见宇宙女皇 - 夜想曲.mp3",
+    "或许会用到的素材/视频音频/ミリオンバンブー - 夜想曲.mp3",
+    "或许会用到的素材/视频音频/kkyxdt的bgm-海の見える街.flac",
+    "或许会用到的素材/夜空中最亮的星.mp4",
+    "或许会用到的素材/视频音频/夜空中最亮的星.mp3",
+    "或许会用到的素材/视频音频/快乐土豆饼！.mp3",
+    "或许会用到的素材/视频音频/小坂明子 - 海の見える街.flac",
+    "乱七八糟的文本/乱写.md",
     "乱七八糟的文本/角色故事/Snow.md",
     "乱七八糟的文本/角色故事/Flowers.md",
-    "乱七八糟的文本/闲思碎想/未命名.canvas",
-    "乱七八糟的文本/闲思碎想/未命名.base",
-    "乱七八糟的文本/乱写.md",
-    "乱七八糟的文本/设定来源记录.md",
-    "未命名",
-    "乱七八糟的文本/闲思碎想",
     "乱七八糟的文本/角色故事/Military.md",
+    "乱七八糟的文本/闲思碎想/关于主视角“Joi”.md",
+    "乱七八糟的文本/闲思碎想/未命名.canvas",
     "乱七八糟的文本/垃圾/最后一幕（优化）.md",
-    "乱七八糟的文本/垃圾",
-    "乱七八糟的文本/垃圾/最后一幕（初）.md",
-    "未命名 1",
-    "乱七八糟的文本/角色故事",
-    "乱七八糟的文本"
+    "乱七八糟的文本/垃圾/最后一幕（初）.md"
   ]
 }
