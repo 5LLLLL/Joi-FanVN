@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乱七八糟的文本/正文（或许）/SC004：.md",
+                "file": "乱七八糟的文本/大纲（或许）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SC004："
+              "title": "大纲（或许）"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sig",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "乱七八糟的文本/正文（或许）/SC004：.md",
+                "file": "乱七八糟的文本/大纲（或许）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SC004： 的大纲"
+              "title": "大纲（或许） 的大纲"
             }
           }
         ],
@@ -185,31 +185,32 @@
   },
   "active": "99dfc6d4f6ac313e",
   "lastOpenFiles": [
-    "乱七八糟的文本/正文（或许）/SC001：宇宙女皇.md",
+    "乱七八糟的文本/各个角色.md",
     "乱七八糟的文本/正文（或许）/SC004：.md",
+    "乱七八糟的文本/大纲（或许）.md",
+    "乱七八糟的文本/角色故事/Snow.md",
+    "乱七八糟的文本/闲思碎想/关于主视角Joi.md",
+    "乱七八糟的文本/闲思碎想/关于宇宙女皇.md",
+    "乱七八糟的文本/角色故事/Flowers.md",
+    "乱七八糟的文本/角色故事/Military.md",
+    "乱七八糟的文本/开幕简介.md",
+    "乱七八糟的文本/正文（或许）/SC001：宇宙女皇.md",
+    "乱七八糟的文本/正文（或许）/SC000：“日常“.md",
+    "乱七八糟的文本/闲思碎想/一些灵感.md",
+    "乱七八糟的文本/大概没用的稿/最后一幕（优化）.md",
+    "乱七八糟的文本/大概没用的稿/最后一幕（初）.md",
+    "乱七八糟的文本/正文（或许）/SC003：残阳.md",
     "乱七八糟的文本/正文（或许）/SC005：.md",
     "README.md",
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base",
-    "乱七八糟的文本/正文（或许）/SC000：“日常“.md",
-    "乱七八糟的文本/正文（或许）/SC003：残阳.md",
-    "乱七八糟的文本/开幕简介.md",
-    "乱七八糟的文本/闲思碎想/一些灵感.md",
-    "乱七八糟的文本/大纲（或许）.md",
-    "乱七八糟的文本/各个角色.md",
     "乱七八糟的文本/设定来源记录.md",
     "未命名",
-    "乱七八糟的文本/闲思碎想/关于宇宙女皇.md",
-    "乱七八糟的文本/角色故事/Snow.md",
-    "乱七八糟的文本/角色故事/Military.md",
-    "乱七八糟的文本/角色故事/Flowers.md",
     "或许会用到的素材/bg_starPalace.png",
     "或许会用到的素材/bg_.png",
     "或许会用到的素材/cg_joi_live.png",
     "Renpy项目/joi_VN project/game/audio/EP.mp3",
-    "乱七八糟的文本/闲思碎想/关于主视角Joi.md",
-    "乱七八糟的文本/大概没用的稿/最后一幕（初）.md",
     "或许会用到的素材/视频音频/早期OP.mp3",
     "或许会用到的素材/视频音频/shichigatsunokomorebi.mp3",
     "或许会用到的素材/视频音频/kkyxdt的bgm - 海の見える街.flac",
